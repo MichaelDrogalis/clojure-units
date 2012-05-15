@@ -1,6 +1,6 @@
 # clojure-units
 
-FIXME: write description
+A small Clojure utility library for converting measurement units.
 
 ## Usage
 
